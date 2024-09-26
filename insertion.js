@@ -1,8 +1,9 @@
 function insertionSort(arr) {
-    // loop through array for i
-    for (let i=0;i<arr.length;i++){
+    let i = 0;
+    while(i < arr.length){
         
     }
+    
 }
 
 module.exports = insertionSort;
